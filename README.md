@@ -14,3 +14,5 @@ A 3D opengl voxel engine made with pyopengl, pygame and python
 # Controls
 - arrow keys for movement
 - left and right mouse click for rotation
+
+# [https://phentomin.itch.io/voxelengine]
